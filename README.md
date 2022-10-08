@@ -45,8 +45,8 @@ Evaluate the model with the testing data.
 
 ## PROGRAM
 ```python
-# Developed By:Tamil Venthan R S
-# Register Number:212220230054
+# Developed By:Navneeth Krishnan B
+# Register Number:212219040094
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
